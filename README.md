@@ -4,3 +4,5 @@ An alarm app that automatically tracks sleep duration and uploads it to Google F
 ## Resources
 
 https://developers.google.com/fit/android/history
+
+https://developers.google.com/fit/scenarios/write-sleep-data
