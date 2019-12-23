@@ -1,0 +1,26 @@
+Color Scheme: Blue Gold: Berkely theme: Hibernation helper?
+
+Permissions:
+usage access (To lock the screen forest style)
+
+
+Features: 
+
+TimePicker widget to select wake up time:
+
+when time is selected/turned on: 
+have the time set and add button to "Go to Sleep"
+display time remaining until then
+
+When go to sleep Button is pressed:
+record the time pressed
+
+when time is selected/turned on: 
+1. display time remaining until then
+lock the screen (Forest style) to force 
+
+disrupt button
+
+When Alarm goes off:
+
+"Wake up Button:/ "Dismiss"
