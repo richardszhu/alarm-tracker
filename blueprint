@@ -14,13 +14,10 @@ display time remaining until then
 
 When go to sleep Button is pressed:
 record the time pressed
-
-when time is selected/turned on: 
-1. display time remaining until then
-lock the screen (Forest style) to force 
-
-disrupt button
+Lock the screen (Forest Style)
+add a disrupt/wakeup button
+turn alarm on
 
 When Alarm goes off:
-
-"Wake up Button:/ "Dismiss"
+Wake UP button
+Turn off alarm (leave it set on the same time though)
