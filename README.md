@@ -11,4 +11,10 @@ https://developer.android.com/reference/android/provider/AlarmClock
 
 https://developer.android.com/reference/android/widget/TimePicker
 
+tuts:
+
 https://javapapers.com/android/android-alarm-clock-tutorial/
+
+https://www.youtube.com/watch?v=QMwaNN_aM3U
+
+
